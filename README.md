@@ -30,4 +30,4 @@ the followings:
     2. After clicking the movie poster image I have changed the background color to yellow so that the viewer can track which movie trailer 
     s/he has viewed already.
 
-To run the program one needs to open the movie_list.py
+To run the program one needs to open the movie_list.py in Python IDLE and run it.
