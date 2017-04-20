@@ -31,3 +31,4 @@ the followings:
     s/he has viewed already.
 
 To run the program one needs to open the movie_list.py in Python IDLE and run it.
+The generated output file "Movie Trailer.html" is also included in this project to show the outcome of the project.
